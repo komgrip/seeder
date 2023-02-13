@@ -2,7 +2,7 @@
 ## 🔧 Installation
 
 ```sh
-go install github.com/komgrip/seeder
+go install github.com/komgrip/seeder@latest
 ```
 
 It is always installed in `~/go/bin`
